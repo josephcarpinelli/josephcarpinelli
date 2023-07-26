@@ -1,4 +1,9 @@
-### Hi there 👋
+### All Projects
+[GitLab Profile](https://gitlab.com/carpinelli/)
+
+### :hammer_and_wrench: Languages and Tools
+Python
+JavaScript
 
 <!--
 **josephcarpinelli/josephcarpinelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
